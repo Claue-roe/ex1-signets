@@ -1,3 +1,3 @@
 # Page des signets
 
-C'est un site qui ma coûté beaucoup des points de santé mentale. 
+C'est un site qui ma coûté beaucoup de points de santé mentale. 
